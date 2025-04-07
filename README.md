@@ -1,7 +1,4 @@
 # 👋 Привет, я Vlad!
-
-![Header](https://via.placeholder.com/1200x200/1e1e2f/ffffff?text=Welcome+to+My+GitHub+Profile)
-
 ## 🌟 О себе
 
 Я разработчик с опытом работы в различных областях, включая веб-разработку, машинное обучение и разработку мобильных приложений. Моя цель — создавать качественный и эффективный код.
@@ -10,7 +7,7 @@
 
 ## 📊 Моя статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sv153Sam&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sv163Sam&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ваш_логин&layout=compact&theme=radical)
 

@@ -4,11 +4,19 @@
 
 ###
 
+```
+My trophies
+```
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Sv163Sam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
+
+```
+My stats
+```
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sv163Sam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -16,11 +24,19 @@
 
 ###
 
+```
+My activity
+```
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sv163Sam&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
+```
+My languages
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sv163Sam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -38,6 +54,10 @@
 </div>
 
 ###
+
+```
+My skills
+```
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
@@ -132,6 +152,10 @@
 </div>
 
 ###
+
+```
+My snake
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sv163Sam/Sv163Sam/output/snake.svg" alt="Snake animation" />

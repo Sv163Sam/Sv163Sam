@@ -9,7 +9,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sv163Sam&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ваш_логин&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv163Sam&layout=compact&theme=radical)
 
 ---
 

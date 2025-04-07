@@ -17,7 +17,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sv163Sam&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -134,4 +134,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sv163Sam/Sv163Sam/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sv163Sam/Sv163Sam/output/snake.svg" alt="Snake animation" />
+</div>

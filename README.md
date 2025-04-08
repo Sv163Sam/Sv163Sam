@@ -4,9 +4,16 @@
 
 ###
 
+| ![Анимация процесса](assets/UUU.gif) | My name is Vladimir. I am a backend and partly fullstack developer. I prefer C++ and Python. |
+|----------------------------------------------|-------------------------------------------------------------|
+
+###
+
 <div align="left">
   I am an active GitHub user who collects trophies.
 </div>
+
+###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Sv163Sam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -14,31 +21,30 @@
 
 ###
 
-```
-My stats
-```
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sv163Sam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="left">
+  My statistics for chart lovers.
 </div>
 
 ###
 
-```
-My activity
-```
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sv163Sam&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://streak-stats.demolab.com?user=Sv163Sam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  </div>
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sv163Sam&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  </div>
 </div>
 
 ###
 
-```
-My languages
-```
+<div align="left">
+  My preferred programming languages.  
+</div>
 
-<div align="center">
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sv163Sam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sv163Sam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>

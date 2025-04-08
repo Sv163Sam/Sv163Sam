@@ -61,9 +61,11 @@
 
 ###
 
-```
-My skills
-```
+<div align="left">
+  My main tech stack and skills.  
+</div>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
@@ -158,10 +160,13 @@ My skills
 </div>
 
 ###
+###
 
-```
-My snake
-```
+<div align="left">
+  This snake will live here.
+</div>
+
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sv163Sam/Sv163Sam/output/snake.svg" alt="Snake animation" />

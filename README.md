@@ -160,13 +160,6 @@
 </div>
 
 ###
-###
-
-<div align="left">
-  This snake will live here.
-</div>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sv163Sam/Sv163Sam/output/snake.svg" alt="Snake animation" />
